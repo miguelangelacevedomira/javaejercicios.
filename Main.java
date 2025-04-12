@@ -23,3 +23,7 @@ class Main {
       System.out.println("La division es : " + division );
       System.out.println("El modulo es : " + modulo );
       
+       
+    }
+       
+}
